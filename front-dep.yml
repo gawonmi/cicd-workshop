@@ -25,6 +25,6 @@ spec:
     spec:
       containers:
       - name: otofront
-        image: antweiss/otofrontend:master
+        image: gawonmi/otofrontend:master
         ports:
         - containerPort: 3000
