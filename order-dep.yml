@@ -26,6 +26,6 @@ spec:
     spec:
       containers:
       - name: otoorders
-        image: antweiss/otoorders:master
+        image: gawonmi/otoorders:master
         ports:
         - containerPort: 8080
